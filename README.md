@@ -20,6 +20,7 @@ Save the Clean data to the file
 
 
 # CODE
+```
 import pandas as pd
 df=pd.read_csv("Data_set.csv")
 print(df)
@@ -38,5 +39,6 @@ df['watchers']=df['watchers'].fillna(df['watchers'].median())
 df.head()
 df.info()
 df.isnull().sum()
+```
 # OUPUT
 
