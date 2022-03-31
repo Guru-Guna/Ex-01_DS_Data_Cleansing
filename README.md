@@ -41,4 +41,21 @@ df.info()
 df.isnull().sum()
 ```
 # OUPUT
+# Data:
+ ![gitlogo](ot1.jpg)
 
+# Non Null Before:
+![gitlogo](op2.jpg)
+
+#  Mode:
+![gitlogo](op3.jpg)
+
+# Mean:
+![gitlogo](op6.jpg)
+
+# Median:
+![gitlogo](op6.jpg)
+
+# NON NULL AFTER:
+![gitlogo](op8.jpg)
+![gitlogo](op9.jpg)
