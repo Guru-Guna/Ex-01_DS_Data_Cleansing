@@ -59,3 +59,6 @@ df.isnull().sum()
 # NON NULL AFTER:
 ![gitlogo](op8.jpg)
 ![gitlogo](op9.jpg)
+
+# Result:
+Thus, the given data is read, cleansed and the cleaned data is saved into the file.
